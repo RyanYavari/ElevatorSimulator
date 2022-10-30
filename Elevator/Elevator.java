@@ -1,4 +1,4 @@
-package HW2;
+package Elevator;
 
 import java.util.Map;
 
