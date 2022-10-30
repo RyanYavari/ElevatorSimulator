@@ -100,21 +100,5 @@ public class Elevator {
 		 return "Elevator Occupancy: " + elevatorOccupancy + " \r\n" + "On " + currentFloor + " floor.\r\n";
 
 	    }
-	
-	
-	
-	/*
-	 * Returns the total cargo weight (in lbs) on the elevator; 
-	 */
-//	public int getCurrentWeight() {
-//		int total = 0;
-//		for(Passenger person: cargo.keySet()) {
-//			total += cargo.get(person);
-//		}
-//		return total;
-//	
-//	}
-	
-	
 
 }
